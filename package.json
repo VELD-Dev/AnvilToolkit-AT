@@ -1,0 +1,21 @@
+{
+  "name": "anviltoolkit-additionaltools",
+  "displayName": "AnvilToolkit AdditionalTools",
+  "version": "1.0.0",
+  "description": "A bunch of additional open-source tools for AnvilToolkit, contribution free",
+  "main": "index.js",
+  "author": "VELD-Dev",
+  "dependencies": {
+    "electron": "^19.0.8",
+    "react": "^18.2.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "contributors": [
+    {
+      "name": "VELD-Dev",
+      "email": ""
+    }
+  ]
+}
