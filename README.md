@@ -4,9 +4,9 @@ Addtional tools for AnvilToolkit
 ## Tools
 ### Duplicate (Corruption) Cleaner (clean.js)
 Important data:
-* Name: Duplicate (Corruption) Cleaner
-* Role: Clean the corrupted dupplicated files into the extracted files of AnvilToolkit. Generally, corrupted duplicated files have a regular name containing "Unnamed.data"
-* Required to execute: [Node.JS](https://nodejs.org/en/)
+* Name: **Duplicate (Corruption) Cleaner**
+* Role: *Clean the corrupted dupplicated files into the extracted files of AnvilToolkit. Generally, corrupted duplicated files have a regular name containing "Unnamed.data"*
+* Required to execute: **[Node.JS](https://nodejs.org/en/)**
 * How to execute it (while there's no interface for it yet):
   ```cmd
   cd "<repo of clean.js file>"
